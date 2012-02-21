@@ -1,5 +1,4 @@
-IFMIS
-========
+# IFMIS
 
 Integrated Financial MIS
 
