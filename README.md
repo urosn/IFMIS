@@ -1,2 +1,5 @@
-This is IFMIS
-=============
+== IFMIS
+
+Integrated Financial MIS
+
+== Getting started
